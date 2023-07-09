@@ -33,8 +33,8 @@ class ResultViewController: UIViewController {
         print("init")
         print(test)
     }
-    // arryan.sys@gmail.com
-    // Arryan123
+    // 
+    // 
     
     func OnAppBecameActive()
     {
